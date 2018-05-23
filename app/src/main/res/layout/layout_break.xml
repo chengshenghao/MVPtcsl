@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/iv_break"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_break"
+    android:paddingBottom="@dimen/break_padding_bottom"
+    android:paddingLeft="@dimen/break_padding_left"
+    android:paddingRight="@dimen/break_padding_right"
+    android:paddingTop="@dimen/break_padding_top"
+    android:src="@drawable/ic_break" />

@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="font_78">61dp</dimen>
+    <dimen name="font_34">26.5dp</dimen>
+    <dimen name="font_30">23.5dp</dimen>
+    <dimen name="font_28">28dp</dimen>
+    <dimen name="font_24">21.9dp</dimen>
+    <dimen name="font_22">17dp</dimen>
+    <dimen name="font_20">15.625dp</dimen>
+    <dimen name="font_19">14.8dp</dimen>
+    <dimen name="font_18">14dp</dimen>
+    <dimen name="font_17">13.3dp</dimen>
+    <dimen name="font_16">12.5dp</dimen>
+    <dimen name="font_15">11.7dp</dimen>
+    <dimen name="font_14">10.9dp</dimen>
+    <dimen name="font_12">9.34dp</dimen>
+    <dimen name="font_10">7.8dp</dimen>
+    <dimen name="font_9">7dp</dimen>
+
+    <dimen name="pading_larger">9.4dp</dimen>
+
+
+    //内外间距
+    <dimen name="distance_2">1.56dp</dimen>
+    <dimen name="distance_5">3.9dp</dimen>
+    <dimen name="distance_12">9.38dp</dimen>
+    <dimen name="distance_14">10.9dp</dimen>
+    <dimen name="distance_16">12.5dp</dimen>
+    <dimen name="distance_18">14dp</dimen>
+    <dimen name="distance_20">15.625dp</dimen>
+    <dimen name="distance_22">17dp</dimen>
+    <dimen name="distance_24">21.9dp</dimen>
+    <dimen name="distance_40">31dp</dimen>
+    <dimen name="distance_70">54.69dp</dimen>
+    <dimen name="distance_130">100dp</dimen>
+    <dimen name="distance_160">124dp</dimen>
+
+
+    <dimen name="switch_width">18.75dp</dimen>
+    <dimen name="switch_height">18.75dp</dimen>
+    <dimen name="switch_radius">9.38dp</dimen>
+    <dimen name="switch_track_length">9.38dp</dimen>
+
+    <dimen name="main_title_height">53dp</dimen>
+
+    <!--loginCloudChain-->
+    <dimen name="login_root_height">474dp</dimen>
+    <dimen name="login_title_height">59dp</dimen>
+    <dimen name="group_margin_left">9.38dp</dimen>
+    <dimen name="group_margin_right">40.62dp</dimen>
+    <dimen name="login_title_margin_left">18.75dp</dimen>
+    <dimen name="logo_distance_top">95dp</dimen>
+    <dimen name="content_distance_top">120dp</dimen>
+    <dimen name="input_content_margin_top">51.56dp</dimen>
+    <dimen name="input_content_margin_left">93.75dp</dimen>
+    <dimen name="login_group_left">28dp</dimen>
+    <dimen name="login_person_left">39dp</dimen>
+    <dimen name="login_person_bottom">9.375dp</dimen>
+    <dimen name="user_list_margin_top">43dp</dimen>
+    <dimen name="user_margin_top">15.6dp</dimen>
+    <dimen name="input_pass_margin_right">119.5dp</dimen>
+    <dimen name="pass_keyboard_margin_top">25dp</dimen>
+    <dimen name="login_btn_height">39dp</dimen>
+    <dimen name="input_width">195dp</dimen>
+    <dimen name="content_height">375dp</dimen>
+    <dimen name="login_keyboard_stroke">1dp</dimen>
+    <dimen name="login_keyboard_key_size">23.4dp</dimen>
+    <dimen name="login_keyboard_key_horizontal_gap">23.4dp</dimen>
+    <dimen name="login_keyboard_key_vertical_gap">10.9dp</dimen>
+    <dimen name="login_keyboard_key_second_horizontal_gap">46.9dp</dimen>
+    <dimen name="login_setting_bottom">50dp</dimen>
+    <dimen name="prompt_more_top">32.8dp</dimen>
+    <dimen name="prompt_more_bottom">31.25dp</dimen>
+    <dimen name="prompt_more_left">234dp</dimen>
+    <!--机构绑定-->
+    <dimen name="bind_logo_distance_top">12.5dp</dimen>
+    <dimen name="bind_name_top">10.9dp</dimen>
+    <dimen name="bind_input_width">289dp</dimen>
+    <dimen name="group_distance_top">39dp</dimen>
+    <dimen name="bind_btn_distance_top">43.75dp</dimen>
+    <dimen name="bind_btn_width">132.8dp</dimen>
+    <dimen name="bind_btn_height">39dp</dimen>
+    <dimen name="bind_btn_space">21.8dp</dimen>
+    <dimen name="bind_logo_width">57dp</dimen>
+    <dimen name="bind_logo_height">45dp</dimen>
+    <!--对接设置-->
+    <dimen name="setting_top">12.5dp</dimen>
+    <dimen name="setting_name_distance_top">9.38dp</dimen>
+    <dimen name="link_ip_margin_top">19.5dp</dimen>
+    <dimen name="next_btn_margin_top">23.4dp</dimen>
+    <dimen name="input_link_width">289dp</dimen>
+    <dimen name="input_link_height">39dp</dimen>
+    <dimen name="next_btn_space">21.9dp</dimen>
+    <dimen name="setting_btn_width">132.8dp</dimen>
+    <dimen name="setting_btn_height">39dp</dimen>
+    <dimen name="input_link_padding">12.5dp</dimen>
+    <!--home-->
+    <dimen name="list_margin_left">171.9dp</dimen>
+    <dimen name="home_margin_top">15.6dp</dimen>
+    <dimen name="home_margin_left">21.88dp</dimen>
+    <dimen name="home_user_top">14dp</dimen>
+    <dimen name="item_margin">21.88dp</dimen>
+    <dimen name="home_icon_padding">9.38dp</dimen>
+    <dimen name="function_width">35.9dp</dimen>
+    <dimen name="function_height">35.9dp</dimen>
+    <dimen name="function_item_padding">18dp</dimen>
+    <dimen name="function_icon">68.75dp</dimen>
+    <!--main-->
+    <dimen name="title_margin">14dp</dimen>
+    <dimen name="title_icon_padding">9.38dp</dimen>
+
+    <dimen name="break_padding_left">12.5dp</dimen>
+    <dimen name="break_padding_right">15.6dp</dimen>
+    <dimen name="break_padding_top">7.8dp</dimen>
+    <dimen name="break_padding_bottom">7.8dp</dimen>
+
+    <!--主界面的 功能列表  function-->
+    <dimen name="title_margin_top">31.25dp</dimen>
+    <dimen name="title_margin_left">46.89dp</dimen>
+    <dimen name="list_margin_top">78dp</dimen>
+    <dimen name="function_list_margin_left">46.88dp</dimen>
+    <dimen name="method_bg_width">642dp</dimen>
+    <dimen name="method_bg_height">268.5dp</dimen>
+    <dimen name="method_text_width">156.25dp</dimen>
+    <!--单据列表-->
+    <dimen name="filter_height">46.88dp</dimen>
+    <dimen name="filter_padding_left">12.5dp</dimen>
+    <dimen name="break_padding">3.9dp</dimen>
+    <dimen name="bill_margin">15.6dp</dimen>
+    <dimen name="data_box_width">96dp</dimen>
+    <dimen name="data_box_height">28dp</dimen>
+    <dimen name="data_box_margin_left">20dp</dimen>
+    <dimen name="data_box_margin_line">6.25dp</dimen>
+    <dimen name="data_box_line">7.8dp</dimen>
+    <dimen name="checked_padding">18.75dp</dimen>
+    <dimen name="btn_upload_width">92dp</dimen>
+    <dimen name="btn_upload_height">31.25dp</dimen>
+    <dimen name="search_width">203dp</dimen>
+    <dimen name="search_height">31.25dp</dimen>
+    <dimen name="search_padding">4.69dp</dimen>
+    <dimen name="bill_bottom">10.9dp</dimen>
+    <dimen name="bill_bottom_margin">23.4dp</dimen>
+    <dimen name="bill_bottom_margin_text">4.69dp</dimen>
+    <dimen name="confirm_or_not">23.4dp</dimen>
+    <dimen name="library_margin">46.88dp</dimen>
+
+    <dimen name="purchase_height">64dp</dimen>
+    <dimen name="bill_number_width">210.9dp</dimen>
+    <dimen name="base_material_width">87.5dp</dimen>
+    <dimen name="shop_name_width">118.75dp</dimen>
+    <dimen name="library_width">180dp</dimen>
+
+    <dimen name="dialog_padding">9.375dp</dimen>
+
+    <!--键盘-->
+    <dimen name="keyboard_padding">21.9dp</dimen>
+    <dimen name="keyboard_key_width">39.06dp</dimen>
+    <dimen name="login_keyboard_width">47dp</dimen>
+    <dimen name="keyboard_key_height">32.8dp</dimen>
+    <dimen name="keyboard_key_margin_horizontal">19.5dp</dimen>
+    <dimen name="keyboard_key_margin_vertical">14.06dp</dimen>
+    <dimen name="last_horizontal_gap">69dp</dimen>
+
+    <!--称重-->
+    <dimen name="weigh_title_height">46.9dp</dimen>
+    <dimen name="weigh_bottom_height">54.7dp</dimen>
+    <dimen name="weigh_save_width">74dp</dimen>
+    <dimen name="weigh_save_height">29.7dp</dimen>
+    <dimen name="weigh_title_margin_left">12.5dp</dimen>
+    <dimen name="weigh_warehouse_margin_left">20dp</dimen>
+    <dimen name="weigh_title_margin_right">6.25dp</dimen>
+    <dimen name="weigh_warehouse_margin">7.8dp</dimen>
+    <dimen name="weigh_warehouse_modify_margin">5.46dp</dimen>
+    <dimen name="count_width">238dp</dimen>
+    <dimen name="weight_width">295dp</dimen>
+    <dimen name="weight_height">117dp</dimen>
+    <dimen name="weight_margin_left">57.8dp</dimen>
+    <dimen name="weight_margin_top">9.38dp</dimen>
+    <dimen name="items_width">162dp</dimen>
+    <dimen name="items_height">111.7dp</dimen>
+    <dimen name="items_margin_weight">101.6dp</dimen>
+    <dimen name="items_lable_width">31.25dp</dimen>
+    <dimen name="items_lable_height">31.25dp</dimen>
+    <dimen name="items_margin">6.25dp</dimen>
+    <dimen name="spec_margin_top">18.75dp</dimen>
+    <dimen name="spec_margin_left">0dp</dimen>
+    <dimen name="current_cumulative_margin">31.25dp</dimen>
+    <dimen name="current_formula">12.5dp</dimen>
+    <dimen name="current_margin_top">35.9dp</dimen>
+    <dimen name="current_margin_left">15.6dp</dimen>
+    <dimen name="confirm_prompt">14dp</dimen>
+
+    <!-- 多单位-->
+    <dimen name="unit_margin">15.6dp</dimen>
+    <dimen name="unit_list_margin_left">31.25dp</dimen>
+    <dimen name="unit_list_margin_top">25dp</dimen>
+    <dimen name="unit_item_margin_bottom">23.4dp</dimen>
+    <dimen name="unit_item_margin_right">21.88dp</dimen>
+    <dimen name="unit_dialog_width">387.5dp</dimen>
+    <dimen name="unit_dialog_height">267dp</dimen>
+    <dimen name="unit_item_width">62.5dp</dimen>
+    <dimen name="unit_item_height">31.25dp</dimen>
+    <!--base dialog-->
+    <dimen name="return_img_padding">9.37dp</dimen>
+    <dimen name="base_dialog_bottom_btn_width">125dp</dimen>
+    <dimen name="base_dialog_bottom_btn_height">39dp</dimen>
+    <dimen name="base_dialog_bottom_margin_left_right">52dp</dimen>
+    <dimen name="base_dialog_bottom_margin_bottom">56dp</dimen>
+    <dimen name="base_dialog_bottom_btn_margin">34.4dp</dimen>
+
+    <dimen name="confirm_dialog_width">388dp</dimen>
+    <dimen name="confirm_dialog_height">239.8dp</dimen>
+
+    <!--新增单据-->
+    <dimen name="new_bill_title_margin_left">18dp</dimen>
+    <dimen name="new_bill_title_margin_top">14dp</dimen>
+    <dimen name="new_bill_title_padding">9dp</dimen>
+    <dimen name="new_bill_title_margin_right">21.8dp</dimen>
+    <dimen name="new_bill_title_margin_bottom">9.3dp</dimen>
+    <dimen name="new_bill_btn_height">27dp</dimen>
+    <dimen name="new_bill_btn_width">86dp</dimen>
+    <dimen name="new_bill_btn_margin_left">20dp</dimen>
+    <dimen name="new_bill_line_length">208dp</dimen>
+    <dimen name="new_bill_line_top">15.6dp</dimen>
+    <dimen name="warehouse_list_margin">42dp</dimen>
+    <dimen name="warehouse_list_margin_top">48.2dp</dimen>
+    <dimen name="next_pager_margin">76.6dp</dimen>
+    <dimen name="new_bill_item_width">114.8dp</dimen>
+    <dimen name="new_bill_item_height">37.5dp</dimen>
+
+    <!--粗加工单-->
+    <dimen name="left_content_width">297dp</dimen>
+    <dimen name="right_padding_top">12.5dp</dimen>
+    <dimen name="right_padding_bottom">15.6dp</dimen>
+    <dimen name="line_margin">9.36dp</dimen>
+    <dimen name="classify_margin">14dp</dimen>
+    <dimen name="line_height">14dp</dimen>
+    <dimen name="right_padding_right">15.6dp</dimen>
+    <dimen name="right_padding_left">17dp</dimen>
+    <dimen name="break_margin_left">11.7dp</dimen>
+    <dimen name="break_margin_top">7.8dp</dimen>
+    <dimen name="break_margin_right">7.8dp</dimen>
+    <dimen name="rough_title_margin_top">14dp</dimen>
+    <dimen name="line_margin_left">10dp</dimen>
+    <dimen name="line_margin_top">7.8dp</dimen>
+    <dimen name="rough_margin_top">11.7dp</dimen>
+    <dimen name="rough_margin_right">6.25dp</dimen>
+    <dimen name="bill_margin_top">12.5dp</dimen>
+    <dimen name="bill_detail_margin_top">15.6dp</dimen>
+    <dimen name="rough_width">78dp</dimen>
+    <dimen name="rough_height">46.9dp</dimen>
+    <dimen name="rough_item_height">53dp</dimen>
+    <dimen name="total_left">9.3dp</dimen>
+    <dimen name="total_top">7.8dp</dimen>
+    <dimen name="rough_margin_left">14dp</dimen>
+    <dimen name="weigh_each_one">31.25dp</dimen>
+    <dimen name="weigh_total">25dp</dimen>
+    <dimen name="list_mode_margin">15.6dp</dimen>
+    <dimen name="picture_mode_margin_left">25dp</dimen>
+    <dimen name="picture_mode_margin_right">23dp</dimen>
+    <dimen name="mode_margin_top">22dp</dimen>
+    <dimen name="food_item_width">142dp</dimen>
+    <dimen name="food_item_height">103dp</dimen>
+    <dimen name="item_mode_margin_top">21.9dp</dimen>
+    <dimen name="food_list_item_width">109dp</dimen>
+    <dimen name="food_list_item_height">54.7dp</dimen>
+
+    <dimen name="setting_init_left_width">86dp</dimen>
+    <dimen name="setting_init_circle_width">11.7dp</dimen>
+    <dimen name="setting_init_content_left">15.6dp</dimen>
+    <dimen name="setting_init_line_left">5.5dp</dimen>
+    <dimen name="setting_init_icon_size">19.5dp</dimen>
+    <dimen name="setting_init_group_height">70dp</dimen>
+    <dimen name="setting_init_padding_left">86dp</dimen>
+    <dimen name="check_new_version">105dp</dimen>
+
+    <!--选择品项-->
+    <dimen name="title_height">43.75dp</dimen>
+    <dimen name="title_margin_right">18.75dp</dimen>
+    <dimen name="class_drawable_padding">5.5dp</dimen>
+    <dimen name="class_margin">34.4dp</dimen>
+    <dimen name="left_pager_margin_left">17dp</dimen>
+    <dimen name="left_pager_margin_right">31.25dp</dimen>
+    <dimen name="right_pager_margin_left">28dp</dimen>
+    <dimen name="right_pager_margin_right">21.8dp</dimen>
+    <dimen name="item_margin_top">14dp</dimen>
+    <dimen name="items_margin_bottom">56.25dp</dimen>
+    <dimen name="item_margin_bottom">23.4dp</dimen>
+    <dimen name="store_item_width">121.9dp</dimen>
+    <dimen name="store_item_height">121dp</dimen>
+    <dimen name="item_img_width">143.75dp</dimen>
+    <dimen name="item_img_height">106dp</dimen>
+    <dimen name="item_name_width">23.4dp</dimen>
+    <dimen name="item_name_margin_left">7.8dp</dimen>
+    <dimen name="item_name_margin_top">12.5dp</dimen>
+    <dimen name="store_list_margin_top">20dp</dimen>
+    <dimen name="store_list_margin_bottom">68.75dp</dimen>
+
+    <dimen name="filter_dialog_width">254dp</dimen>
+    <dimen name="filter_dialog_height">54dp</dimen>
+
+    <dimen name="calendar_width">390dp</dimen>
+    <dimen name="calendar_height">312.5dp</dimen>
+    <dimen name="calendar_title">56dp</dimen>
+    <dimen name="choose_date_width">554dp</dimen>
+    <dimen name="choose_date_height">398dp</dimen>
+    <dimen name="choose_date_title">80dp</dimen>
+    <dimen name="radius_class">3dp</dimen>
+    <dimen name="class_margin_left">5dp</dimen>
+    <dimen name="class_margin_right">5dp</dimen>
+    <dimen name="class_margin_top">8dp</dimen>
+    <dimen name="marginTop_dock_options">17.18dp</dimen>
+    <dimen name="textSize_dock_option">14.06dp</dimen>
+    <dimen name="height_line_dock_option">2dp</dimen>
+    <dimen name="marginTop_line_dock_option">4dp</dimen>
+    <dimen name="marginRight_dock_option">10dp</dimen>
+    <dimen name="marginLeft_dock_option">10dp</dimen>
+    <!--拍照界面-->
+    <dimen name="text_desc">10.94dp</dimen>
+    <dimen name="text_desc_title">21.875dp</dimen>
+    <dimen name="margintTop_desc_title">12.5dp</dimen>
+    <dimen name="margintTop_desc">9.375dp</dimen>
+    <dimen name="width_camera">223.44dp</dimen>
+    <dimen name="height_camera">131.25dp</dimen>
+    <dimen name="marginTop_camera">9.375dp</dimen>
+    <dimen name="width_weight_summary_item_name">217.18dp</dimen>
+    <dimen name="height_weight_summary_item_name">131.25dp</dimen>
+    <dimen name="text_weight_summary_item_name">46.87dp</dimen>
+    <dimen name="text_weight_summary_item_space">23.43dp</dimen>
+    <dimen name="marginTop_weight_summary_item">7.81dp</dimen>
+    <dimen name="width_weight_summary_item_title">31.25dp</dimen>
+    <dimen name="marginLeft_ll_weight_summary_item_content">7.81dp</dimen>
+    <dimen name="font_54">42.18dp</dimen>
+    <dimen name="width_et_weight_summary">58.59dp</dimen>
+    <dimen name="marginLeft_et_weight_summary">9.375dp</dimen>
+    <dimen name="line_1dp">1dp</dimen>
+    <dimen name="height_tv_weight_item">28dp</dimen>
+    <dimen name="width_iv_weight_summary_items">9.375dp</dimen>
+    <dimen name="height_iv_weight_summary_items">6.25dp</dimen>
+    <dimen name="marginLeft_iv_weight_summary_items">4.6875dp</dimen>
+    <dimen name="paddingLeft_ll_weight_item">3.9dp</dimen>
+    <dimen name="paddingRight_ll_weight_item">3.9dp</dimen>
+    <dimen name="width_iv_weight_item_delete">10.93dp</dimen>
+    <dimen name="height_iv_weight_item_delete">14dp</dimen>
+    <dimen name="width_ll_weight_item">78.22dp</dimen>
+    <dimen name="height_ll_weight_item">65.63dp</dimen>
+    <dimen name="width_ll_weight_item_title">148.43dp</dimen>
+    <dimen name="font_60">54.68dp</dimen>
+    <dimen name="width_weight_summary">115.71dp</dimen>
+
+    <dimen name="marginLeft_weight_summary">15.628dp</dimen>
+    <dimen name="marginRight_layout_camera_desc">15.628dp</dimen>
+    <dimen name="width_weight_scale">306dp</dimen>
+    <dimen name="marginLeft_weight_scale">42.96dp</dimen>
+    <dimen name="marginRight_weight_scale">42.96dp</dimen>
+    <dimen name="marginLeft_new_weight">15.628dp</dimen>
+    <dimen name="marginRight_new_weight">15.628dp</dimen>
+    <dimen name="width_layout_count_keyboard">262.5dp</dimen>
+    <dimen name="marginLeft_layout_count_keyboard">35.15dp</dimen>
+    <dimen name="marginRight_layout_count_keyboard">35.15dp</dimen>
+    <dimen name="width_layout_camera_desc">223.43dp</dimen>
+    <dimen name="marginTop_ll_count_keyboard">15.628dp</dimen>
+    <dimen name="marginLeft_et_count_keyboard">15.628dp</dimen>
+    <dimen name="marginRight_tv_count_keyboard_unit">6.66dp</dimen>
+    <dimen name="drawablePadding_tv_count_keyboard_unit">6.66dp</dimen>
+    <dimen name="width_fl_count_keyboard">269.5</dimen>
+</resources>

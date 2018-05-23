@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/item_margin">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingRight="@dimen/function_item_padding"
+        android:paddingTop="@dimen/function_item_padding">
+
+        <ImageView
+            android:id="@+id/iv_function"
+            android:layout_width="@dimen/function_icon"
+            android:layout_height="@dimen/function_icon" />
+
+        <TextView
+            android:id="@+id/tv_function_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/home_icon_padding"
+            android:textColor="@color/bg_home_item_name" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_label_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:background="@drawable/bg_function_item_label"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/font_22"
+        android:visibility="gone" />
+</FrameLayout>

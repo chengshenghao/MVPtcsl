@@ -1,0 +1,274 @@
+<resources>
+    <string name="app_name">MVPTest</string>
+
+    <string name="string_return">返回</string>
+    <string name="reset">重置</string>
+    <string name="confirm">确定</string>
+    <string name="select_all">全选</string>
+    <string name="upload">上传</string>
+    <string name="new_bill">新增</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <string name="login_user_name">登录人：</string>
+    <string name="not_add">下发单据不可新增品项！</string>
+    <string name="confirm_not_modify">已确认单据不可修改！</string>
+    <string name="confirm_delete">确认删除？</string>
+    <string name="please_select">请选择</string>
+    <string name="cozy">更改粗加工BOM会清空之前新增的净料明细，是否确认?</string>
+
+    <!--loginCloudChain-->
+    <string name="user_name">账号</string>
+    <string name="pass_word">密码</string>
+    <string name="login">登录</string>
+    <string name="docking_setting">对接设置</string>
+    <string name="group_binding">机构绑定</string>
+    <string name="input_pass">请输入密码</string>
+    <string name="login_group">登录机构</string>
+    <string name="login_person">登录人</string>
+    <string name="pwd_error">密码错误</string>
+    <string name="not_author">该用户没有权限！</string>
+
+    <!--绑定机构-->
+    <string name="bing_title">所属机构</string>
+    <string name="bind_tip">完成对接设置后才能筛选机构</string>
+    <string name="bind_input_tip">机构名称</string>
+    <string name="binding">绑定</string>
+
+    <!--对接设置-->
+    <string name="dock_setting">对接设置</string>
+    <string name="cloud_chain">云供应链</string>
+    <string name="z5_chain">Z5供应链</string>
+    <string name="other">其他</string>
+    <string name="chain_ip">供应链IP或域名</string>
+    <string name="link_ip">供应链IP或域名地址</string>
+    <string name="link_author_user">供应链授权帐号</string>
+    <string name="link_author_pass">供应链授权密码</string>
+    <string name="dock_next">下一步</string>
+    <string name="chain_ip_empty">请输入供应链IP或域名</string>
+    <string name="link_ip_empty">请输入供应链IP或域名地址</string>
+    <string name="link_author_user_empty">请输入供应链授权帐号</string>
+    <string name="link_author_pass_empty">请输入供应链授权密码</string>
+
+    <!--home-->
+    <string name="recorded_single">称重录单</string>
+    <string name="data_download">资料下载</string>
+    <string name="data_upload">单据上传</string>
+    <string name="help">帮助</string>
+    <string name="screen_lock">屏幕锁定</string>
+    <string name="system_setting">系统设置</string>
+    <string name="exit_login">退出登录</string>
+    <!--function-->
+    <string name="shortcut_entrance">快捷入口</string>
+    <string name="purchase">采购入库单</string>
+    <string name="outbound_order">统配出库单</string>
+    <string name="allocation">入库单</string>
+    <string name="roughing">粗加工单</string>
+    <string name="store_check">盘点单</string>
+    <string name="completed">完工入库单</string>
+    <string name="material">净料入库单</string>
+
+    <!--setting-->
+    <string name="setting_title">系统设置</string>
+    <string name="setting_normal">常规设置</string>
+    <string name="setting_init_order">单据初始化</string>
+    <string name="setting_init_system">系统初始化</string>
+    <string name="setting_about">关于</string>
+    <string name="introduce">天津市神州商龙股份有限公司</string>
+    <string name="duration">Copyright©1998-2018</string>
+    <string name="is_new_version">当前已是最新版本</string>
+    <!--录单列表-->
+    <string name="yesterday">昨天</string>
+    <string name="today">今天</string>
+    <string name="tomorrow">明天</string>
+    <string name="this_week">本周</string>
+    <string name="last_week">上周</string>
+    <string name="storage">入库仓库</string>
+    <string name="in_store">入库门店</string>
+    <string name="out_warehouse">出库仓库</string>
+    <string name="input_search_keyword">请输入搜索关键字</string>
+    <string name="total">共</string>
+    <string name="bill_item">项</string>
+    <string name="base_material">项母材料</string>
+    <string name="sub_material">项子材料</string>
+    <string name="check_details">查看详情</string>
+    <string name="storage_point">入库仓库：</string>
+    <string name="storage_store">入库门店：</string>
+    <string name="library_point">出库仓库：</string>
+    <string name="not_save">未确认</string>
+    <string name="is_save">已确认</string>
+    <string name="all">全部</string>
+    <string name="to_be_confirmed">待确认</string>
+    <string name="confirmed">已确认</string>
+    <string name="confirmed_all">全部确认</string>
+    <string name="term">项条目</string>
+    <string name="bill_general">统配出库单-%d项</string>
+    <string name="bill_rough">粗加工单-%d项</string>
+
+    <string name="bill_no">系统单号</string>
+    <string name="work_data">业务日期</string>
+    <string name="arrivals_data">到货日期</string>
+    <string name="library_org">出库机构</string>
+    <string name="center_storage">中心出库仓库</string>
+    <string name="detail_size">明细数</string>
+    <string name="total_weight">总重量</string>
+    <string name="total_amount">总金额</string>
+
+    <string name="team">班组：</string>
+    <string name="weigh_bom">BOM：</string>
+    <string name="kg">kg</string>
+    <string name="order">订</string>
+    <string name="sub">差</string>
+    <string name="tax_rate">税</string>
+    <string name="auxiliary">辅</string>
+    <string name="actual">实</string>
+    <string name="tax_rate_value">税率：</string>
+    <string name="items_space">规格：</string>
+    <string name="order_quantity">订货量：</string>
+    <string name="order_difference">称重差：</string>
+    <string name="count_difference">差异量：</string>
+    <string name="order_auxiliary_quantity">订货辅助量：</string>
+    <string name="actual_auxiliary_quantity">实际辅助量：</string>
+    <string name="box">箱</string>
+    <string name="weigh_clear">清空</string>
+    <string name="peel_once">单次去皮</string>
+    <string name="lock_weighting">锁定称重</string>
+    <string name="unlock_weighting">解锁称重</string>
+    <string name="sum_weighting">累加称重</string>
+    <string name="current_add">当前累加</string>
+    <string name="current_peel">当前去皮</string>
+    <string name="net_weight">净</string>
+    <string name="tare_weight">皮</string>
+    <string name="gross_weight">毛</string>
+
+    <string name="next_step">下一步</string>
+    <string name="last_step">上一步</string>
+    <string name="create_bill">生成单据</string>
+
+    //多单位
+    <string name="unit_title">选择单位</string>
+    <array name="more_unit">
+        <item>kg</item>
+        <item>箱</item>
+        <item>筐</item>
+        <item>袋</item>
+        <item>兜</item>
+    </array>
+    <string name="confirm_clear">确定要清空所有数据吗？</string>
+
+    <!--新增单据-->
+
+    //日历
+    <array name="weekday_labels">
+        <item>日</item>
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+    </array>
+
+    <array name="month_labels">
+        <item>1月</item>
+        <item>2月</item>
+        <item>3月</item>
+        <item>4月</item>
+        <item>5月</item>
+        <item>6月</item>
+        <item>7月</item>
+        <item>8月</item>
+        <item>9月</item>
+        <item>10月</item>
+        <item>11月</item>
+        <item>12月</item>
+    </array>
+
+    <string name="exception_msg_network">网络错误</string>
+    <string name="net_socket_timeout_exception">网络连接超时</string>
+    <string name="data_not_found_exception">发生未知的错误</string>
+    <string name="ip_not_fond">HTTP 404</string>
+
+    <!--粗加工单-->
+    <string name="rough_bill">粗加工单</string>
+    <string name="rough_bill_info">单据信息</string>
+    <string name="rough_edit">编辑</string>
+    <string name="rough_complete">完成</string>
+    <string name="delete_all_bill">整单删除</string>
+    <string name="save_bill">保存单据</string>
+    <string name="wool_total">毛料总重量 %s</string>
+    <string name="net_total">净料总重量 %s</string>
+    <string name="all_category">全部大类</string>
+    <string name="all_small">全部小类</string>
+    <string name="wool">毛料</string>
+    <string name="net">净料</string>
+    <string name="input_keywords_search">请输入关键字搜索</string>
+    <string name="bom_empty">请选择bom</string>
+
+    <string name="pick_law">摘果法\n分拣</string>
+    <string name="seed_method">播种法\n分拣</string>
+
+    <!--选择品项-->
+    <string name="choice_item">选择品项</string>
+    <string name="big_class">大类</string>
+    <string name="small_class">小类</string>
+    <string name="order_goods">订货量：</string>
+    <string name="weighing">称重量：</string>
+    <string name="difference">差异量：</string>
+
+    <string name="choice_store">选择门店</string>
+    <string name="unit_empty">请选择单位</string>
+    <string name="in_store_empty">请选择入库仓库</string>
+    <string name="no_goods">没有净料品项！</string>
+
+    <!--入库单-->
+    <string name="supplier">供货商：</string>
+    <string name="bill_type">单据类型：</string>
+    <string name="bill_number">单号：</string>
+    <string name="bus_time">业务时间：</string>
+    <string name="purchase_type">采购类型:</string>
+    <string name="self_purchase">自采</string>
+    <string name="direct_purchase">直配</string>
+    <string name="direct_delivery">直通</string>
+    <string name="union_delivery">统配</string>
+    <string name="supplier_title">供货商</string>
+    <string name="choose_work_date">请选择业务日期</string>
+    <string name="work_date">业务日期：</string>
+    <string name="bill_purchase_storage">"采购入库单-%d项"</string>
+
+    <!--新称重界面-->
+    <string name="weight_edit">编辑</string>
+    <string name="continuous_peel">连续去皮</string>
+    <string name="auxiliary_count">辅助数量：</string>
+    <string name="amount">金额：</string>
+    <string name="order_title">订</string>
+    <string name="difference_title">差</string>
+    <string name="auxiliary_title">辅</string>
+    <string name="tax_title">税</string>
+    <string name="amount_title">金</string>
+    <string name="receive_standard">验收标准：</string>
+    <string name="weight_finish">完成</string>
+    <string name="peel">去皮</string>
+    <string name="tax_rate_title">选择税率</string>
+    <string name="more">多</string>
+    <string name="less">少</string>
+    <string name="wrong_auxiliary_count">辅助数量不正确</string>
+    <string name="wrong_amount_count">金额不正确</string>
+    <string name="weight_detail_title">称重合计/称重次数</string>
+    <string name="total_tare">皮重累计：</string>
+    <string name="total_net">净重累计：</string>
+    <string name="wipe_data">IP地址或域名以改变，是否清除数据</string>
+    <string name="default_loading_msg">请稍后...</string>
+    <string name="wiping_data">正在清除数据...</string>
+    <string name="coming_soon">敬请期待...</string>
+    <string name="diff_shh">供应链IP或域名已改变，是否清除原有数据</string>
+    <string name="diff_ip">供应链IP或域名地址已改变，是否清除数据</string>
+    <string name="diff_chain">供应链类型已改变，是否清除数据</string>
+    <string name="jin">市斤</string>
+    <string name="no_confirmed_bill">请确认要上传的单据</string>
+    <string name="no_bill">没有可上传单据</string>
+    <string name="empty_weight">重量或数量不能为0</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <include layout="@layout/layout_break" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/break_padding_top"
+            android:drawableLeft="@drawable/ic_function_title"
+            android:drawablePadding="8dp"
+            android:text="@string/shortcut_entrance"
+            android:textColor="@color/shallow_black"
+            android:textSize="@dimen/font_22" />
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_fun_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/function_list_margin_left"
+        android:layout_marginTop="@dimen/list_margin_top" />
+</FrameLayout>

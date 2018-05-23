@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="sky_ash">#bebebe</color>
+    <color name="white">#ffffff</color>
+    <color name="shallow_black">#333333</color>
+    <color name="shallow_gay">#dadada</color>
+    <color name="shallow_blue">#4097ff</color>
+    <color name="dark_blue">#476cf1</color>
+    <color name="half_black">#4d4d4d</color>
+    <color name="half_high_black">#656565</color>
+    <color name="gray_555555">#555555</color>
+    <color name="light_blue">#3f97ff</color>
+    <color name="shallow_grey">#cccccc</color>
+    <color name="gray_holo">#c9c9c9</color>
+    <color name="divide_line">#c1c1c1</color>
+    <color name="deep_black">#2e2f32</color>
+    <color name="blue_holo">#8abfff</color>
+    <color name="transparent_blue">#804097ff</color>
+
+    <!--loginCloudChain-->
+    <color name="user">@color/sky_ash</color>
+    <color name="login_btn_text">@color/white</color>
+    <color name="binding_setting">@color/shallow_black</color>
+    <color name="login_btn_bg">@color/shallow_gay</color>
+    <color name="login_bg">#ccffffff</color>
+    <!--main-->
+    <color name="main_top_bar_bg">@color/light_blue</color>
+    <!--机构绑定-->
+    <color name="bind_title">@color/shallow_black</color>
+    <color name="bind_tip">@color/half_black</color>
+    <!--对接设置-->
+    <color name="setting_next">@color/shallow_blue</color>
+    <color name="setting_return">@color/shallow_gay</color>
+    <color name="setting_text">@color/half_high_black</color>
+    <color name="setting_hint_text">@color/divide_line</color>
+
+    <color name="divider_color">#e0e0e0</color>
+    <color name="weight_bottom_btn_color">@color/blue_holo</color>
+    <color name="weigh_bottom_clear_color_nor">#ff6666</color>
+    <color name="weigh_bottom_clear_color_pre">#c0c6d8</color>
+
+    <color name="setting_red">#ff6666</color>
+    <color name="setting_green">#35c48c</color>
+    <color name="transparent">#00000000</color>
+    <color name="gray_5c5c5c">#5c5c5c</color>
+</resources>
+

@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="font_78">78dp</dimen>
+    <dimen name="font_34">34dp</dimen>
+    <dimen name="font_30">30dp</dimen>
+    <dimen name="font_28">28dp</dimen>
+    <dimen name="font_24">24dp</dimen>
+    <dimen name="font_22">22dp</dimen>
+    <dimen name="font_20">20dp</dimen>
+    <dimen name="font_19">19dp</dimen>
+    <dimen name="font_18">18dp</dimen>
+    <dimen name="font_17">17dp</dimen>
+    <dimen name="font_16">16dp</dimen>
+    <dimen name="font_15">15dp</dimen>
+    <dimen name="font_14">14dp</dimen>
+    <dimen name="font_12">12dp</dimen>
+    <dimen name="font_10">10dp</dimen>
+    <dimen name="font_9">9dp</dimen>
+
+    <dimen name="pading_larger">12dp</dimen>
+
+
+    //内外间距
+    <dimen name="distance_2">2dp</dimen>
+    <dimen name="distance_5">5dp</dimen>
+    <dimen name="distance_12">12dp</dimen>
+    <dimen name="distance_14">14dp</dimen>
+    <dimen name="distance_16">16dp</dimen>
+    <dimen name="distance_18">18dp</dimen>
+    <dimen name="distance_20">20dp</dimen>
+    <dimen name="distance_22">22dp</dimen>
+    <dimen name="distance_24">24dp</dimen>
+    <dimen name="distance_40">40dp</dimen>
+    <dimen name="distance_70">70dp</dimen>
+    <dimen name="distance_130">130dp</dimen>
+    <dimen name="distance_160">160dp</dimen>
+
+
+    <dimen name="switch_width">24dp</dimen>
+    <dimen name="switch_height">24dp</dimen>
+    <dimen name="switch_radius">12dp</dimen>
+    <dimen name="switch_track_length">12dp</dimen>
+
+    <dimen name="main_title_height">68dp</dimen>
+
+    <!--loginCloudChain-->
+    <dimen name="login_root_height">607dp</dimen>
+    <dimen name="login_title_height">76dp</dimen>
+    <dimen name="group_margin_left">12dp</dimen>
+    <dimen name="group_margin_right">52dp</dimen>
+    <dimen name="login_title_margin_left">24dp</dimen>
+    <dimen name="logo_distance_top">122dp</dimen>
+    <dimen name="content_distance_top">150dp</dimen>
+    <dimen name="input_content_margin_top">66dp</dimen>
+    <dimen name="input_content_margin_left">120dp</dimen>
+    <dimen name="login_group_left">36dp</dimen>
+    <dimen name="login_person_left">50dp</dimen>
+    <dimen name="login_person_bottom">15dp</dimen>
+    <dimen name="user_list_margin_top">58dp</dimen>
+    <dimen name="user_margin_top">20dp</dimen>
+    <dimen name="input_pass_margin_right">153dp</dimen>
+    <dimen name="pass_keyboard_margin_top">32dp</dimen>
+    <dimen name="login_btn_height">50dp</dimen>
+    <dimen name="input_width">250dp</dimen>
+    <dimen name="content_height">480dp</dimen>
+    <dimen name="login_keyboard_stroke">1dp</dimen>
+    <dimen name="login_keyboard_key_size">30dp</dimen>
+    <dimen name="login_keyboard_key_horizontal_gap">30dp</dimen>
+    <dimen name="login_keyboard_key_vertical_gap">14dp</dimen>
+    <dimen name="login_keyboard_key_second_horizontal_gap">60dp</dimen>
+    <dimen name="login_setting_bottom">64dp</dimen>
+    <dimen name="prompt_more_top">42dp</dimen>
+    <dimen name="prompt_more_bottom">40dp</dimen>
+    <dimen name="prompt_more_left">300dp</dimen>
+    <!--机构绑定-->
+    <dimen name="bind_logo_distance_top">16dp</dimen>
+    <dimen name="bind_name_top">14dp</dimen>
+    <dimen name="bind_input_width">370dp</dimen>
+    <dimen name="group_distance_top">50dp</dimen>
+    <dimen name="bind_btn_distance_top">56dp</dimen>
+    <dimen name="bind_btn_width">170dp</dimen>
+    <dimen name="bind_btn_height">50dp</dimen>
+    <dimen name="bind_btn_space">28dp</dimen>
+    <dimen name="bind_logo_width">73dp</dimen>
+    <dimen name="bind_logo_height">58dp</dimen>
+    <!--对接设置-->
+    <dimen name="setting_top">16dp</dimen>
+    <dimen name="setting_name_distance_top">12dp</dimen>
+    <dimen name="link_ip_margin_top">25dp</dimen>
+    <dimen name="next_btn_margin_top">30dp</dimen>
+    <dimen name="input_link_width">370dp</dimen>
+    <dimen name="input_link_height">50dp</dimen>
+    <dimen name="next_btn_space">28dp</dimen>
+    <dimen name="setting_btn_width">170dp</dimen>
+    <dimen name="setting_btn_height">50dp</dimen>
+    <dimen name="input_link_padding">16dp</dimen>
+    <!--home-->
+    <dimen name="list_margin_left">220dp</dimen>
+    <dimen name="home_margin_top">20dp</dimen>
+    <dimen name="home_margin_left">28dp</dimen>
+    <dimen name="home_user_top">18dp</dimen>
+    <dimen name="item_margin">28dp</dimen>
+    <dimen name="home_icon_padding">12dp</dimen>
+    <dimen name="function_width">46dp</dimen>
+    <dimen name="function_height">46dp</dimen>
+    <dimen name="function_item_padding">23dp</dimen>
+    <dimen name="function_icon">88dp</dimen>
+    <!--main-->
+    <dimen name="title_margin">18dp</dimen>
+    <dimen name="title_icon_padding">12dp</dimen>
+
+    <dimen name="break_padding_left">16dp</dimen>
+    <dimen name="break_padding_right">20dp</dimen>
+    <dimen name="break_padding_top">10dp</dimen>
+    <dimen name="break_padding_bottom">10dp</dimen>
+
+    <!--主界面的 功能列表  function-->
+    <dimen name="title_margin_top">40dp</dimen>
+    <dimen name="title_margin_left">60dp</dimen>
+    <dimen name="list_margin_top">100dp</dimen>
+    <dimen name="function_list_margin_left">60dp</dimen>
+    <dimen name="method_bg_width">822dp</dimen>
+    <dimen name="method_bg_height">344dp</dimen>
+    <dimen name="method_text_width">200dp</dimen>
+    <!--单据列表-->
+    <dimen name="filter_height">60dp</dimen>
+    <dimen name="filter_padding_left">16dp</dimen>
+    <dimen name="break_padding">5dp</dimen>
+    <dimen name="bill_margin">20dp</dimen>
+    <dimen name="data_box_width">123dp</dimen>
+    <dimen name="data_box_height">36dp</dimen>
+    <dimen name="data_box_margin_left">26dp</dimen>
+    <dimen name="data_box_margin_line">8dp</dimen>
+    <dimen name="data_box_line">10dp</dimen>
+    <dimen name="checked_padding">24dp</dimen>
+    <dimen name="btn_upload_width">118dp</dimen>
+    <dimen name="btn_upload_height">40dp</dimen>
+    <dimen name="search_width">260dp</dimen>
+    <dimen name="search_height">40dp</dimen>
+    <dimen name="search_padding">6dp</dimen>
+    <dimen name="bill_bottom">14dp</dimen>
+    <dimen name="bill_bottom_margin">30dp</dimen>
+    <dimen name="bill_bottom_margin_text">6dp</dimen>
+    <dimen name="confirm_or_not">30dp</dimen>
+    <dimen name="library_margin">60dp</dimen>
+
+    <dimen name="purchase_height">82dp</dimen>
+    <dimen name="bill_number_width">270dp</dimen>
+    <dimen name="base_material_width">112dp</dimen>
+    <dimen name="shop_name_width">158dp</dimen>
+    <dimen name="library_width">230dp</dimen>
+
+    <dimen name="dialog_padding">12dp</dimen>
+
+    <!--键盘-->
+    <dimen name="keyboard_padding">28dp</dimen>
+    <dimen name="keyboard_key_width">50dp</dimen>
+    <dimen name="login_keyboard_width">60dp</dimen>
+    <dimen name="keyboard_key_margin_horizontal">25dp</dimen>
+    <dimen name="keyboard_key_margin_vertical">18dp</dimen>
+    <dimen name="last_horizontal_gap">88dp</dimen>
+
+    <!--称重-->
+    <dimen name="weigh_title_height">60dp</dimen>
+    <dimen name="weigh_bottom_height">70dp</dimen>
+    <dimen name="weigh_save_width">95dp</dimen>
+    <dimen name="weigh_save_height">38dp</dimen>
+    <dimen name="weigh_title_margin_left">16dp</dimen>
+    <dimen name="weigh_warehouse_margin_left">26dp</dimen>
+    <dimen name="weigh_title_margin_right">8dp</dimen>
+    <dimen name="weigh_warehouse_margin">10dp</dimen>
+    <dimen name="weigh_warehouse_modify_margin">7dp</dimen>
+    <dimen name="count_width">305dp</dimen>
+    <dimen name="weight_width">378dp</dimen>
+    <dimen name="weight_height">143dp</dimen>
+    <dimen name="weight_margin_left">74dp</dimen>
+    <dimen name="weight_margin_top">12dp</dimen>
+    <dimen name="items_width">206dp</dimen>
+    <dimen name="items_height">143dp</dimen>
+    <dimen name="items_margin_weight">130dp</dimen>
+    <dimen name="items_lable_width">40dp</dimen>
+    <dimen name="items_lable_height">40dp</dimen>
+    <dimen name="items_margin">8dp</dimen>
+    <dimen name="spec_margin_top">24dp</dimen>
+    <dimen name="spec_margin_left">0dp</dimen>
+    <dimen name="current_cumulative_margin">40dp</dimen>
+    <dimen name="current_formula">16dp</dimen>
+    <dimen name="current_margin_top">46dp</dimen>
+    <dimen name="current_margin_left">20dp</dimen>
+    <dimen name="confirm_prompt">18dp</dimen>
+
+    <!-- 多单位-->
+    <dimen name="unit_margin">20dp</dimen>
+    <dimen name="unit_list_margin_left">40dp</dimen>
+    <dimen name="unit_list_margin_top">32dp</dimen>
+    <dimen name="unit_item_margin_bottom">30dp</dimen>
+    <dimen name="unit_item_margin_right">28dp</dimen>
+    <dimen name="unit_dialog_width">496dp</dimen>
+    <dimen name="unit_dialog_height">342dp</dimen>
+    <dimen name="unit_item_width">80dp</dimen>
+    <dimen name="unit_item_height">40dp</dimen>
+    <!--base dialog-->
+    <dimen name="return_img_padding">12dp</dimen>
+    <dimen name="base_dialog_bottom_btn_width">160dp</dimen>
+    <dimen name="base_dialog_bottom_btn_height">50dp</dimen>
+    <dimen name="base_dialog_bottom_margin_left_right">66dp</dimen>
+    <dimen name="base_dialog_bottom_margin_bottom">72dp</dimen>
+    <dimen name="base_dialog_bottom_btn_margin">44dp</dimen>
+
+    <dimen name="confirm_dialog_width">497dp</dimen>
+    <dimen name="confirm_dialog_height">307dp</dimen>
+
+    <!--新增单据-->
+    <dimen name="new_bill_title_margin_left">23dp</dimen>
+    <dimen name="new_bill_title_margin_top">18dp</dimen>
+    <dimen name="new_bill_title_padding">12dp</dimen>
+    <dimen name="new_bill_title_margin_right">28dp</dimen>
+    <dimen name="new_bill_title_margin_bottom">12dp</dimen>
+    <dimen name="new_bill_btn_height">35dp</dimen>
+    <dimen name="new_bill_btn_width">110dp</dimen>
+    <dimen name="new_bill_btn_margin_left">26dp</dimen>
+    <dimen name="new_bill_line_length">266dp</dimen>
+    <dimen name="new_bill_line_top">20dp</dimen>
+    <dimen name="warehouse_list_margin">54dp</dimen>
+    <dimen name="warehouse_list_margin_top">62dp</dimen>
+    <dimen name="next_pager_margin">98dp</dimen>
+    <dimen name="new_bill_item_width">147dp</dimen>
+    <dimen name="new_bill_item_height">48dp</dimen>
+
+    <!--粗加工单-->
+    <dimen name="left_content_width">380dp</dimen>
+    <dimen name="right_padding_top">16dp</dimen>
+    <dimen name="right_padding_bottom">20dp</dimen>
+    <dimen name="line_margin">12dp</dimen>
+    <dimen name="classify_margin">18dp</dimen>
+    <dimen name="line_height">18dp</dimen>
+    <dimen name="right_padding_right">20dp</dimen>
+    <dimen name="right_padding_left">22dp</dimen>
+    <dimen name="break_margin_left">15dp</dimen>
+    <dimen name="break_margin_top">10dp</dimen>
+    <dimen name="break_margin_right">10dp</dimen>
+    <dimen name="rough_title_margin_top">18dp</dimen>
+    <dimen name="line_margin_left">13dp</dimen>
+    <dimen name="line_margin_top">10dp</dimen>
+    <dimen name="rough_margin_top">15dp</dimen>
+    <dimen name="rough_margin_right">8dp</dimen>
+    <dimen name="bill_margin_top">16dp</dimen>
+    <dimen name="bill_detail_margin_top">20dp</dimen>
+    <dimen name="rough_width">100dp</dimen>
+    <dimen name="rough_height">60dp</dimen>
+    <dimen name="rough_item_height">68dp</dimen>
+    <dimen name="total_left">12dp</dimen>
+    <dimen name="total_top">10dp</dimen>
+    <dimen name="rough_margin_left">18dp</dimen>
+    <dimen name="weigh_each_one">40dp</dimen>
+    <dimen name="weigh_total">32dp</dimen>
+    <dimen name="list_mode_margin">20dp</dimen>
+    <dimen name="picture_mode_margin_left">32dp</dimen>
+    <dimen name="picture_mode_margin_right">30dp</dimen>
+    <dimen name="mode_margin_top">26dp</dimen>
+    <dimen name="food_item_width">182dp</dimen>
+    <dimen name="food_item_height">132dp</dimen>
+    <dimen name="item_mode_margin_top">28dp</dimen>
+    <dimen name="food_list_item_width">140dp</dimen>
+    <dimen name="food_list_item_height">70dp</dimen>
+
+    <dimen name="setting_init_left_width">110dp</dimen>
+    <dimen name="setting_init_circle_width">15dp</dimen>
+    <dimen name="setting_init_content_left">20dp</dimen>
+    <dimen name="setting_init_line_left">7dp</dimen>
+    <dimen name="setting_init_icon_size">25dp</dimen>
+    <dimen name="setting_init_group_height">90dp</dimen>
+    <dimen name="setting_init_padding_left">110dp</dimen>
+    <dimen name="check_new_version">136dp</dimen>
+
+    <!--选择品项-->
+    <dimen name="title_height">56dp</dimen>
+    <dimen name="title_margin_right">24dp</dimen>
+    <dimen name="class_drawable_padding">7dp</dimen>
+    <dimen name="class_margin">44dp</dimen>
+    <dimen name="left_pager_margin_left">22dp</dimen>
+    <dimen name="left_pager_margin_right">40dp</dimen>
+    <dimen name="right_pager_margin_left">36dp</dimen>
+    <dimen name="right_pager_margin_right">28dp</dimen>
+    <dimen name="item_margin_top">18dp</dimen>
+    <dimen name="items_margin_bottom">72dp</dimen>
+    <dimen name="item_margin_bottom">30dp</dimen>
+    <dimen name="store_item_width">186dp</dimen>
+    <dimen name="store_item_height">155dp</dimen>
+    <dimen name="item_img_width">184dp</dimen>
+    <dimen name="item_img_height">136dp</dimen>
+    <dimen name="item_name_width">30dp</dimen>
+    <dimen name="item_name_margin_left">10dp</dimen>
+    <dimen name="item_name_margin_top">16dp</dimen>
+    <dimen name="store_list_margin_top">26dp</dimen>
+    <dimen name="store_list_margin_bottom">88dp</dimen>
+
+    <dimen name="filter_dialog_width">325dp</dimen>
+    <dimen name="filter_dialog_height">75dp</dimen>
+
+    <dimen name="calendar_width">500dp</dimen>
+    <dimen name="calendar_height">400dp</dimen>
+    <dimen name="calendar_title">72dp</dimen>
+    <dimen name="choose_date_width">710dp</dimen>
+    <dimen name="choose_date_height">510dp</dimen>
+    <dimen name="choose_date_title">102dp</dimen>
+    <dimen name="radius_class">3dp</dimen>
+    <dimen name="class_margin_left">5dp</dimen>
+    <dimen name="class_margin_right">5dp</dimen>
+    <dimen name="class_margin_top">10dp</dimen>
+    <dimen name="marginTop_dock_options">22dp</dimen>
+    <dimen name="textSize_dock_option">18dp</dimen>
+    <dimen name="height_line_dock_option">2dp</dimen>
+    <dimen name="marginTop_line_dock_option">4dp</dimen>
+    <dimen name="marginRight_dock_option">10dp</dimen>
+    <dimen name="marginLeft_dock_option">10dp</dimen>
+    <dimen name="text_desc">14dp</dimen>
+    <dimen name="text_desc_title">28dp</dimen>
+    <dimen name="margintTop_desc_title">16dp</dimen>
+    <dimen name="margintTop_desc">12dp</dimen>
+    <dimen name="width_camera">286dp</dimen>
+    <dimen name="height_camera">168dp</dimen>
+    <dimen name="marginTop_camera">12dp</dimen>
+    <dimen name="width_weight_summary_item_name">278dp</dimen>
+    <dimen name="height_weight_summary_item_name">168dp</dimen>
+    <dimen name="text_weight_summary_item_name">60dp</dimen>
+    <dimen name="text_weight_summary_item_space">30dp</dimen>
+    <dimen name="marginTop_weight_summary_item">10dp</dimen>
+    <dimen name="width_weight_summary_item_title">40dp</dimen>
+    <dimen name="marginLeft_ll_weight_summary_item_content">10dp</dimen>
+    <dimen name="font_54">54dp</dimen>
+    <dimen name="width_et_weight_summary">75dp</dimen>
+    <dimen name="marginLeft_et_weight_summary">8dp</dimen>
+    <dimen name="line_1dp">1dp</dimen>
+    <dimen name="height_tv_weight_item">28dp</dimen>
+    <dimen name="width_iv_weight_summary_items">12dp</dimen>
+    <dimen name="height_iv_weight_summary_items">8dp</dimen>
+    <dimen name="marginLeft_iv_weight_summary_items">6dp</dimen>
+    <dimen name="paddingLeft_ll_weight_item">5dp</dimen>
+    <dimen name="paddingRight_ll_weight_item">5dp</dimen>
+    <dimen name="width_iv_weight_item_delete">18dp</dimen>
+    <dimen name="height_iv_weight_item_delete">18dp</dimen>
+    <dimen name="width_ll_weight_item">100dp</dimen>
+    <dimen name="height_ll_weight_item">84dp</dimen>
+    <dimen name="width_ll_weight_item_title">190dp</dimen>
+    <dimen name="font_60">60dp</dimen>
+    <dimen name="width_weight_summary">278dp</dimen>
+
+
+    <dimen name="marginLeft_weight_summary">20dp</dimen>
+    <dimen name="marginRight_layout_camera_desc">20dp</dimen>
+    <dimen name="width_weight_scale">306dp</dimen>
+    <dimen name="marginLeft_weight_scale">55dp</dimen>
+    <dimen name="marginRight_weight_scale">55dp</dimen>
+    <dimen name="marginLeft_new_weight">20dp</dimen>
+    <dimen name="marginRight_new_weight">20dp</dimen>
+    <dimen name="width_layout_count_keyboard">336dp</dimen>
+    <dimen name="marginLeft_layout_count_keyboard">45dp</dimen>
+    <dimen name="marginRight_layout_count_keyboard">45dp</dimen>
+    <dimen name="width_layout_camera_desc">286dp</dimen>
+    <dimen name="marginTop_ll_count_keyboard">20dp</dimen>
+    <dimen name="marginLeft_et_count_keyboard">20dp</dimen>
+    <dimen name="marginRight_tv_count_keyboard_unit">10dp</dimen>
+    <dimen name="drawablePadding_tv_count_keyboard_unit">10dp</dimen>
+    <dimen name="width_fl_count_keyboard">345dp</dimen>
+
+</resources>
