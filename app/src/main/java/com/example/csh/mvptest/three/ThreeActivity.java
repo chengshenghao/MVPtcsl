@@ -8,7 +8,7 @@ import com.example.csh.mvptest.twouserinfo.RecordFragment;
 
 import static com.example.csh.mvptest.utils.ActivityUtils.addFragment;
 /*
-* 第一次尝试编写
+* 第一次尝试编写（创建新的分支）
 * */
 public class ThreeActivity extends AppCompatActivity {
 
